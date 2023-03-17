@@ -17,7 +17,7 @@ I am enrolled in Promineo Tech's Backend Coding Program to build out the skills 
 
 ## ⚡ Fun fact: ...
 
-This year is about working on me. Coding is how I am working out my mind. I have joined a gym where I work out 3 days a week in addition to Road Unicycling twice a week. My goal is to ride the 33 mile Square to Square event in March, and I'm currently up to 21.5 miles. 
+This year is about working on me. Coding is how I am working out my mind. I have joined a gym where I work out 3 days a week in addition to Road Unicycling twice a week. My goal is to ride the 33 mile Square to Square event in May, and I'm currently up to 21.5 miles. 
  
 
 <!--
