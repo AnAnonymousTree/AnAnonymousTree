@@ -6,7 +6,7 @@ Working in EDI as a Boomi Administrator and Developer, I have not had too much n
 
 Implementing a new TMS system, MercuryGate, and preparing the EDI integrations for the 204, 990, 214, and 210 maps in addition to taking over as TMS Administrator after launch.
 
-![shields](https://img.shields.io/badge/MercuryGate-Admin-blue) ![shields](https://img.shields.io/badge/backend-Java-yellow) ![shields](https://img.shields.io/badge/backend-SQL-yellow)
+![shields](https://img.shields.io/badge/MercuryGate-Admin-blue)
 
 ## I’m currently learning ...
 
